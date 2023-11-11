@@ -5,6 +5,7 @@
 ## 🚀 About Me
 - 💡 I enjoy solving problems and building things with Python.
 - 🌱 Learning every day to expand my skills.
+
 ## 🔧 Tools and Technologies
 
 - Python (obviously!)
