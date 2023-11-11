@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arnav-Shrivastava
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python but its kindof on a hold
+- 🌱 I’m currently learning Python but its kind of on a hold
 - 💞️ I’m looking to collaborate on anything cool lol
 - 📫 How to reach uchihaspongebob1@gmail.com 
 
