@@ -40,7 +40,7 @@ Here are the technologies I commonly use and enjoy working with:
 
 | Platform | Link |
 | :--- | :--- |
-| 🌐 **Portfolio** | [Arnav's Portfolio](YOUR\_PORTFOLIO\_LINK\_HERE) |
+| 🌐 **Portfolio** | [Arnav's Portfolio](https://arnav-shrivastava.github.io/) |
 | 📧 **Email** | arnavshrivastava01@gmail.com |
 | 👔 **LinkedIn** | [Arnav Shrivastava on LinkedIn](https://www.linkedin.com/in/arnav-shrivastava-55bb9a2a6/) |
 
